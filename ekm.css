@@ -1,0 +1,11 @@
+
+.bord{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; 
+ }
+footer{
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #00ccff;
+}
